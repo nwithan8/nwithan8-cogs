@@ -22,7 +22,7 @@
   "type": "COG",
   "requirements": [
     "arcadb",
-    "git+https://github.com/nwithan8/n8cog.git"
+    "n8cog"
   ],
   "tags": [
     "queue",
