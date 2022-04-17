@@ -1,0 +1,31 @@
+{
+  "author": [
+    "nwithan8"
+  ],
+  "bot_version": [
+    1,
+    0,
+    0
+  ],
+  "description": "Track users and items in a queue",
+  "disabled": false,
+  "hidden": false,
+  "install_msg": "Thanks for installing Q!, `[p]q to get started!` ",
+  "min_python_version": [
+    3,
+    6,
+    0
+  ],
+  "name": "q",
+  "required_cogs": {},
+  "short": "Queue users and items.",
+  "type": "COG",
+  "requirements": [
+    "arcadb",
+    "git+https://github.com/nwithan8/n8cog.git"
+  ],
+  "tags": [
+    "queue",
+    "line"
+  ],
+}
