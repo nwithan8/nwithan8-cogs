@@ -1,0 +1,30 @@
+{
+  "author": [
+    "nwithan8"
+  ],
+  "bot_version": [
+    1,
+    0,
+    0
+  ],
+  "description": "Figure out who people are",
+  "disabled": false,
+  "hidden": false,
+  "install_msg": "Thanks for installing WhoIs!, `[p]whois to get started!` ",
+  "min_python_version": [
+    3,
+    6,
+    0
+  ],
+  "name": "whois",
+  "required_cogs": {},
+  "short": "Find users",
+  "type": "COG",
+  "requirements": [
+    "n8cog"
+  ],
+  "tags": [
+    "users",
+    "info"
+  ]
+}

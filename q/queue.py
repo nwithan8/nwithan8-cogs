@@ -8,7 +8,7 @@ from n8cog import BaseCog
 from q.database import QueueDatabase, UserQueueEntry
 from q.utils import int_to_place, get_guild_database, QueueType
 
-IDENTIFIER = 551796804
+IDENTIFIER = 551796800
 __version__ = "1.0.0"
 
 
@@ -16,7 +16,7 @@ class Queue(BaseCog):
     """Queue cog"""
 
     def __init__(self, bot: commands.Bot):
-        super().__init__("Q", bot)
+        super().__init__(name="Q", bot=bot)
 
         self.config = Config.get_conf(self, identifier=IDENTIFIER, force_registration=True)
 
