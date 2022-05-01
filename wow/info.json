@@ -1,0 +1,32 @@
+{
+  "author": [
+    "nwithan8"
+  ],
+  "bot_version": [
+    1,
+    0,
+    0
+  ],
+  "description": "Owen Wilson says 'Wow'",
+  "disabled": false,
+  "hidden": false,
+  "install_msg": "Wow!` ",
+  "min_python_version": [
+    3,
+    6,
+    0
+  ],
+  "name": "wow",
+  "required_cogs": {},
+  "short": "Wow",
+  "type": "COG",
+  "requirements": [
+    "n8cog",
+    "owowen"
+  ],
+  "tags": [
+    "wow",
+    "owen wilson",
+    "reaction"
+  ]
+}
