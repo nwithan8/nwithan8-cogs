@@ -7,8 +7,9 @@ from redbot.core.commands import Context
 from n8cog import BaseCog
 from q.database import QueueDatabase, UserQueueEntry
 from q.utils import int_to_place, get_guild_database, QueueType
+from q.identifier import IDENTIFIER
 
-IDENTIFIER = 551796800
+
 __version__ = "1.0.0"
 
 

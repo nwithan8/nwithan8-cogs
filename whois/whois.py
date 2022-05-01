@@ -6,7 +6,8 @@ from redbot.core.commands import Context
 
 from n8cog import BaseCog
 
-IDENTIFIER = 551796801
+from whois.identifier import IDENTIFIER
+
 __version__ = "1.0.0"
 
 
